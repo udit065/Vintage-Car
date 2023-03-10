@@ -1,6 +1,6 @@
 # Vintage-Car
 
-To develop a website where users can find information about various Vintage Cars. This website keeps track of all the cars along with their each and every detail. Users can find detailed information about any Vintage car and the last auctioned price of the car.![Screenshot (48)](https://user-images.githubusercontent.com/72402491/224247565-c4e8b4f4-bc0a-4249-b90d-3ac0d0cfa207.png)
+To develop a website where users can find information about various Vintage Cars. This website keeps track of all the cars along with their each and every detail. Users can find detailed information about any Vintage car and the last auctioned price of the car.
 
 #Output
 
